@@ -1,0 +1,38 @@
+{
+  "name": "discord-webhook-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheRamann/Discord-Webhook-CLI.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TheRamann/Discord-Webhook-CLI/issues"
+  },
+  "homepage": "https://github.com/TheRamann/Discord-Webhook-CLI#readme",
+  "description": "",
+  "dependencies": {
+    "discord-webhook-node": "^1.1.8",
+    "inquirer": "^8.1.0"
+  },
+  "scripts": {
+    "test": "node index"
+  },
+  "keywords": [
+    "cli",
+    "torrent",
+    "movies",
+    "games",
+    "shows",
+    "game",
+    "movie",
+    "show",
+    "magnet"
+  ],
+  "author": "TheRamann",
+  "license": "ISC",
+  "bin": {
+    "webhook": "index.js"
+  },
+  "devDependencies": {}
+}
