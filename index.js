@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const { Webhook, MessageBuilder } = require('discord-webhook-node');
 const inquirer = require('inquirer')
 

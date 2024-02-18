@@ -10,7 +10,7 @@
     "url": "https://github.com/TheRamann/Discord-Webhook-CLI/issues"
   },
   "homepage": "https://github.com/TheRamann/Discord-Webhook-CLI#readme",
-  "description": "",
+  "description": "Send webhooks from your terminal",
   "dependencies": {
     "discord-webhook-node": "^1.1.8",
     "inquirer": "^8.1.0"
@@ -20,14 +20,8 @@
   },
   "keywords": [
     "cli",
-    "torrent",
-    "movies",
-    "games",
-    "shows",
-    "game",
-    "movie",
-    "show",
-    "magnet"
+    "webhook",
+    "discord"
   ],
   "author": "TheRamann",
   "license": "ISC",
